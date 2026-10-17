@@ -3,6 +3,8 @@
 Excel'de tutulan sipariş tablosunu okuyup her akşam **günlük satış özetini Telegram'a gönderen**, komutlarla anlık rapor veren küçük bir otomasyon.
 Küçük e-ticaret, kafe, butik gibi siparişlerini Excel'de takip eden işletmeler için örnek proje.
 
+![Excel → Telegram](ekran.jpg)
+
 ```
 📊 Satış Özeti — 15 Ekim Perşembe
 
